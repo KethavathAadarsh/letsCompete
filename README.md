@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @letsCompete
+- 👋 Hi, I’m aadarsh
 - 👀 I’m interested in model development using machine learning.
 - 🌱 I’m currently learning neural networks, NLP and algorithms..
 - 💞️ I’m looking to collaborate on stochastic calculus and creative projects.
